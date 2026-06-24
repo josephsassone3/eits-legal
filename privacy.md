@@ -1,8 +1,8 @@
 # Privacy Policy — Eye in the Sky
 
-**Last updated: [6/24/2026]**
+**Last updated: 6/24/2026**
 
-This Privacy Policy explains how [YOUR NAME OR COMPANY] ("we," "us," or "our") collects, uses, and protects your information when you use the Eye in the Sky mobile application (the "App"). By using the App, you agree to this Policy.
+This Privacy Policy explains how Eye in the Sky ("we," "us," or "our") collects, uses, and protects your information when you use the Eye in the Sky mobile application (the "App"). By using the App, you agree to this Policy.
 
 Eye in the Sky is a personal tracking tool for recording your own casino sessions. It is not a gambling service. We do not accept wagers, process bets, pay out winnings, or facilitate real-money gambling of any kind.
 
@@ -52,4 +52,4 @@ We may update this Policy from time to time. Material changes will be reflected 
 ## 8. Contact
 
 If you have questions about this Policy or your data, contact us at:
-**[joe.sassone3@gmail.com]**
+**joe.sassone3@gmail.com**
