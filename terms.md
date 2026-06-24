@@ -1,8 +1,8 @@
 # Terms of Service — Eye in the Sky
 
-**Last updated: [DATE]**
+**Last updated: 6/24/2026**
 
-These Terms of Service ("Terms") govern your use of the Eye in the Sky mobile application (the "App"), provided by [YOUR NAME OR COMPANY] ("we," "us," or "our"). By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Service ("Terms") govern your use of the Eye in the Sky mobile application (the "App"), provided by Eye in the Sky ("we," "us," or "our"). By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
 ## 1. What the App Is
 
@@ -40,7 +40,7 @@ THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, 
 
 ## 7. Limitation of Liability
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, [YOUR NAME OR COMPANY] WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY GAMBLING LOSSES, LOSS OF MONEY, LOSS OF DATA, OR LOSS OF PROFITS, ARISING FROM OR RELATED TO YOUR USE OF THE APP — WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. You acknowledge that any decision to gamble, and any resulting loss, is entirely your own responsibility.
+TO THE FULLEST EXTENT PERMITTED BY LAW, Eye in the Sky WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY GAMBLING LOSSES, LOSS OF MONEY, LOSS OF DATA, OR LOSS OF PROFITS, ARISING FROM OR RELATED TO YOUR USE OF THE APP — WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. You acknowledge that any decision to gamble, and any resulting loss, is entirely your own responsibility.
 
 ## 8. Responsible Gambling
 
@@ -56,9 +56,9 @@ We may update these Terms from time to time. Material changes will be reflected 
 
 ## 11. Governing Law
 
-These Terms are governed by the laws of the State of [YOUR STATE], without regard to its conflict-of-laws rules.
+These Terms are governed by the laws of the State of New York, without regard to its conflict-of-laws rules.
 
 ## 12. Contact
 
 Questions about these Terms? Contact us at:
-**[CONTACT EMAIL]**
+**joe.sassone3@gmail.com**
