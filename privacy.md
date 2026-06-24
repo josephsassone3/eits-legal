@@ -35,7 +35,7 @@ Your data is stored using Supabase, a third-party cloud database and authenticat
 
 - **Access and edit:** You can view and edit your logged sessions at any time in the App.
 - **Delete:** You can permanently delete your account and all associated data from within the App ("Delete Account & All Data" in your profile). This action is irreversible.
-- **Regional rights:** Depending on where you live (for example, under the GDPR in the EU/UK or the CCPA in California), you may have rights to access, correct, delete, or restrict processing of your personal data, and to request a copy of it. To exercise these rights, contact us at [CONTACT EMAIL].
+- **Regional rights:** Depending on where you live (for example, under the GDPR in the EU/UK or the CCPA in California), you may have rights to access, correct, delete, or restrict processing of your personal data, and to request a copy of it. To exercise these rights, contact us at joe.sassone3gmail.com.
 
 ## 5. Children's Privacy
 
